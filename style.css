@@ -1,0 +1,129 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+ font-size: 62.5%;
+ font-family: "Inria Sans", serif;
+}
+
+main .sub {
+  text-transform: uppercase;
+  color: #E1624F;
+  font-family: "Open Sans", serif;
+  margin-bottom: 12px;
+  font-weight: bold;
+}
+
+h1 {
+  margin-bottom: 40px;
+  font-size: 2.9rem;
+}
+
+#container {
+  width: 112rem;
+  padding: 80px 80px 137px;
+  margin: 0 auto;
+}
+
+#description {
+
+  margin: 2.4rem 0 4.0rem;
+  color: #333333;
+  text-align: center;
+  font-style: italic;
+  font-size: 1.3rem;
+}
+
+.divider {
+  background-color: #d9d9d9ea;
+  width: 100%;
+  height: 1px;
+  margin-bottom: 6.4rem;
+}
+ 
+h2 {
+  margin-bottom: 1rem;
+  font-size: 2.5rem;
+}
+
+.text-space {
+  font-size: 1.6rem;
+  margin-bottom: 64px;
+  color: #333333;
+}
+
+main img {
+  width: 100%;
+  height: 350px;
+  border-radius: 2.8rem;
+}
+
+ main .low {
+  margin-bottom: 2.4rem;
+  object-fit: cover;
+}
+
+main .high {
+  height: 66rem;
+}
+
+h3 {
+  font-size: 2.2rem;
+  margin-bottom: 10px;
+}
+
+.text {
+  font-weight: 400;
+  font-size: 1.6rem;
+  color: #333333;
+  margin-bottom: 3.4rem;
+}
+
+.text2 {
+  font-weight: 400;
+  font-size: 1.6rem;
+  color: #333333;
+  text-align: center;
+}
+
+ul {
+  padding-left: 20px;
+  font-size: 1.01rem;
+}
+
+.goodfor {
+  font-size: 1.6rem;
+  color: #1545e2;
+  font-weight: bold;
+
+  margin-bottom: 48px;
+}
+
+.goodfor2 {
+  font-size: 1.6rem;
+}
+
+#casais{
+ font-size: 1.6rem;
+ color: #591B98;
+ font-weight: bold;
+}
+
+#familias {
+  font-size: 1.6rem;
+  color: #E5245E;
+  font-weight: bold;
+}
+
+#orcamento {
+  color: #E95E10;
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+section {
+  margin-bottom: 60px;
+}
